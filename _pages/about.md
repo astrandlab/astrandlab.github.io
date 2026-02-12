@@ -1,10 +1,8 @@
 ---
-title: "About"
+title: "About us"
 permalink: /about/
 layout: single
 ---
 
-## About Me
+## About us
 
-I am a Universitetslektor with interests in …
-``
