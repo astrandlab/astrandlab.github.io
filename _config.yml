@@ -1,8 +1,8 @@
-title: "Elaine Astrand"
-name: "Elaine Astrand"
+title: "Neuroengineering team"
+name: "AstrandLab"
 email: ""
-description: "Associate Professor"
-repository: "elainea/elainea.github.io"
+description: ""
+repository: "astrandlab/astrandlab.github.io"
 
 remote_theme: "mmistakes/minimal-mistakes@4.27.3"
 
