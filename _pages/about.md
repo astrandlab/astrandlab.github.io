@@ -4,5 +4,18 @@ permalink: /about/
 layout: single
 ---
 
-## About us
+## Team members
+
+Team leader: Elaine Astrand
+
+Senior:
+- Elmeri Syrjänen, adjunct lecturer
+- Jonatan Tidare, adjunct lecturer
+
+Postdocs:
+- Gabriele Varisco
+
+PhD students:
+- Joana Silva
+- Martin Johansson Alvarez
 
