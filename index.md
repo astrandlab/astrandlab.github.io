@@ -12,5 +12,5 @@ intro:
       bla bla.
 ---
 
-#Welcome
+# Welcome
 Our team vision is: "healthy brain to happy life" as we devote our research to improving health through enhancing brain function. Our mission is to enable brain-machine communication, promote brain plasticity and, provide targeted and beneficial neurotechnology. 
