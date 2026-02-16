@@ -12,5 +12,4 @@ intro:
       bla bla.
 ---
 
-# Welcome
-The neuroengineering team focuses on advancing Brain-Machine Interface (BMI) technology. We are specifically interested in closed-loop neurofeedback systems in its interaction with the brain, thus including both systems engineering and neuroscience.
+With the vision: "Healthy brain to happy life", our mission is to enable brain-machine communication, promote brain plasticity and, provide targeted and beneficial neurotechnology.
