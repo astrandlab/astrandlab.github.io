@@ -6,5 +6,4 @@ layout: single
 
 ## Publications
 
-- Author, *Title*, Journal, Year.
-- …
+- E Syrjänen, J Silva, E Astrand, *Successful single-session neural self-regulation through neurofeedback varies between features*, bioRxiv, 2026.01. 07.698228, 2026.
