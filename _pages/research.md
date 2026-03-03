@@ -5,12 +5,7 @@ layout: single
 classes: wide
 ---
 
-<style>
-.page__content p {
-  text-align: justify;
-  text-justify: inter-word;
-}
-</style>
+<div style="text-align: justify; text-justify: inter-word;">
 
 ## Research Interests
 
