@@ -2,7 +2,9 @@
 title: "Research"
 permalink: /research/
 layout: single
+classes: wide
 ---
+
 
 ## Research Interests
 
