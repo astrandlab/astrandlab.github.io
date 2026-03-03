@@ -10,7 +10,7 @@ The neuroengineering team focuses on advancing Brain-Machine Interface (BMI) tec
 
 <img src="/assets/images/research/NFB_loop.jpg"
      alt="Healthy Brain Image"
-     style="display:block; margin:0 auto; width:50%; border-radius:4px;">
+     style="display:block; margin:20px auto; width:50%; border-radius:4px;">
 
 In a closed-loop Brain-Machine Interface (BMI), the brain is interfaced in real time to a machine (often a computer, called BCI) through feedback that reflects ongoing brain activity (i.e. neurofeedback, NFB). In other words, through NFB, often displayed visually on a computer screen, BCI users can voluntarily control specific features of their own brain activity (i.e. neural self-regulation). This promotes a neural learning environment that stimulates cortical plasticity. As such, BCIs have been shown to induce both short- and long-term modulations in the brain activity. However, for BCIs to be interesting from a therapeutic aspect, these activity modulations need to translate into behavioral improvements. In this respect, several BCI studies show promise in restoring motor function following neurological trauma, such as a stroke, and in improving pathological symptoms in people with cognitive impairments, such as Attention-Deficit Hyperactivity Disorder (ADHD).
 
