@@ -5,6 +5,12 @@ layout: single
 classes: wide
 ---
 
+<style>
+.page__content p {
+  text-align: justify;
+  text-justify: inter-word;
+}
+</style>
 
 ## Research Interests
 
