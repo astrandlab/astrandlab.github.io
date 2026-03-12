@@ -8,6 +8,7 @@ classes: wide
 <div style="text-align: justify; text-justify: inter-word;">
 
 ## Research Interests
+[Under construction... ]
 
 The neuroengineering team focuses on advancing Brain-Machine Interface (BMI) technology. We are specifically interested in closed-loop neurofeedback systems in its interaction with the brain, thus including both systems engineering and neuroscience.
 
