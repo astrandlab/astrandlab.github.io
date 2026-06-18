@@ -5,4 +5,4 @@ layout: single
 classes: wide
 ---
 
-We are interested in why some peolpe have difficulty in learning to self-regulate their own brain activity.
+We are interested in why some peolpe have difficulty in learning to self-regulate their own brain activity. TBC.
