@@ -20,15 +20,9 @@ In a closed-loop Brain-Machine Interface (BMI), the brain is interfaced in real 
 The neuroengineering team uses non-invasive recording techniques including eye-tracking, electroencephalogram (EEG), functional near-infrared spectroscopy (fNIRS) and functional Magnetic Resonance Imaging (fMRI) to advance BCI technology and study closed-loop interaction effects. We are interested in both the biological and machine-side of the BCI system as well as the dynamic interaction between the two. From the machine perspective, we apply advanced signal processing and AI to investigate how information encoded in the brain activity can be extracted in real time. From the biological perspective, we are interested in both how human learning of neural self-regulation can be improved and how BMIs can trigger brain plasticity in a controlled manner.<br>
 <br>
 # Current research directions<br>
-<br>
-
-[Learning neural self-regulation with neurofeedback](/learning_neural_SR/)
 
 <a href="/learning_neural_SR/">Learning neural self-regulation with neurofeedback</a>
-
-Hej
-
-- Learning neural self-regulation with neurofeedback<br>
+<br>
 - Bring human cognition into the BCI-loop<br>
 - BCI-based neurorehabilitation after stroke<br>
 
