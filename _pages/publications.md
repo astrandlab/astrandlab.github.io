@@ -7,6 +7,7 @@ classes: wide
 
 ## Scientific contributions
 
+* G Varisco, J Plantin, R Almeida, S Palmcrantz, E Astrand. Motor-tasks fMRI BOLD activations in chronic stroke with residual hemiparesis in the upper extremity: a pre-neurofeedback baseline characterization. medRxiv, 2026.04. 15.26350962
 * E Syrjänen, J Silva, E Astrand, *Successful single-session neural self-regulation through neurofeedback varies between features*, bioRxiv, 2026.01. 07.698228, 2026. [Download the PDF](assets/Syrjanen_NFB_regulation_2026.pdf)
 * J Tidare, M Johansson-Alvarez, J Plantin, S Palmcrantz and E Astrand. Exploration of using “distance-to-bound” to manipulate the difficulty during motor imagery BCI training after stroke – A clinical two-cases study. Journal of Neural Engineering, Accepted Manuscript online 12 March 2026. DOI 10.1088/1741-2552/ae512c (2026)
 * A Mouille, C Gaillard, E Astrand, C Wardak, JL Amengual, S Ben Hamed. The prefrontal cortex encodes task-identity information and flexibly adjusts its sensory processes as a function of the specific ongoing task. PLoS biology 23 (8), e3003353 (2025)
