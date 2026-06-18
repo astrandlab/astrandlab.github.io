@@ -26,6 +26,8 @@ The neuroengineering team uses non-invasive recording techniques including eye-t
 
 <a href="/learning_neural_SR/">Learning neural self-regulation with neurofeedback</a>
 
+Hej
+
 - Learning neural self-regulation with neurofeedback<br>
 - Bring human cognition into the BCI-loop<br>
 - BCI-based neurorehabilitation after stroke<br>
