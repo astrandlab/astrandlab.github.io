@@ -1,7 +1,8 @@
 ---
-layout: default
-title: Learning Neural Self-Regulation with Neurofeedback
-permalink: /learning-neural-sr/
+title: "Project"
+permalink: /learning_neural_SR/
+layout: single
+classes: wide
 ---
 
 # Learning Neural Self-Regulation with Neurofeedback
