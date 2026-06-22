@@ -31,7 +31,7 @@ Postdocs:
 
 PhD students:
 <div style="display:flex; align-items:center; gap:12px; margin:8px 0 16px;">
-  <img src="/assets/images/Joana_Silva.jpg" alt="Portrait of Joana Silva" style="width:72px; height:72px; object-fit:cover; border-radius:50%; box-shadow:0 0 0 1px #ddd;">
+  <img src="/assets/images/Joana_Silva.jpeg" alt="Portrait of Joana Silva" style="width:72px; height:72px; object-fit:cover; border-radius:50%; box-shadow:0 0 0 1px #ddd;">
   Joana Silva
 </div>
 
