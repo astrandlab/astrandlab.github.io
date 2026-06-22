@@ -54,11 +54,30 @@ Postdocs:
 PhD students:
 <div style="display:flex; align-items:center; gap:12px; margin:8px 0 16px;">
   <img src="/assets/images/Joana_Silva.jpeg" alt="Portrait of Joana Silva" style="width:72px; height:72px; object-fit:cover; border-radius:50%; box-shadow:0 0 0 1px #ddd;">
-  Joana Silva
+  <div>
+    <div>
+      Joana Silva
+    </div>
+    
+    <div style="font-size:12px; text-align:justify; margin-top:4px; color:#57606a;">
+Joana is a PhD student in the Neuroengineering group at MDU. She received her Master's degree in Bioengineering-Biomedical Engineering from the Faculty of Engineering of the University of Porto in 2018. She previously worked as an Engineering consultant and then as a Research Engineer in the same Neuroengineering group. Her research in this group focuses on extracting cognitive information from brain activity and pupillometry using EEG and real-time Neurofeedback. She investigates the neural mechanisms behind BCI inefficiency, seeking to understand why Neurofeedback-based regulation succeeds in some individuals but not others, with the longer-term goal of informing more effective cognitive rehabilitation strategies. 
+    </div>
+  </div>
 </div>
 
 <div style="display:flex; align-items:center; gap:12px; margin:8px 0 16px;">
   <img src="/assets/images/Martin_Johansson.jpg" alt="Portrait of Martin Johansson Alvarez" style="width:72px; height:72px; object-fit:cover; border-radius:50%; box-shadow:0 0 0 1px #ddd;">
-  Martin Johansson Alvarez
+  <div>
+    <div>
+      Martin Johansson Alvarez
+    </div>
+    
+    <div style="font-size:12px; text-align:justify; margin-top:4px; color:#57606a;">
+Martin received his Master of Science in Robotics Engineering from Mälardalen University in 2018. After a period in industry, he returned to academia in 2021 as a research engineer within the Neurotechnology group. In 2023, he received a personal scholarship to pursue a PhD in electronics, and in 2025 he defended his Licentiate thesis.
+His research focuses on stroke rehabilitation using a motor imagery–based brain–computer interface (MI-BCI). This work involves advanced EEG signal analysis and machine learning. The aim of his thesis is to analyze key components of the BCI to extract meaningful features for learning in the form of event-related desynchronization and beta bursts.
+    </div>
+  </div>
 </div>
+
+
 
