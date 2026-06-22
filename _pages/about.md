@@ -18,21 +18,6 @@ Senior:
   Elmeri Syrjänen, adjunct lecturer
 </div>
 
-
-<div style="display:flex; align-items:center; gap:12px; margin:8px 0 16px;">
-<img src="/assets/images/Jonatan_Tidare.jpg" alt="Portrait of Jonatan Tidare" 
-       style="width:72px; height:72px; object-fit:cover; border-radius:50%; box-shadow:0 0 0 1px #ddd;">
-  
-  <div>
-    Jonatan Tidare, adjunct lecturer
-    <div style="font-size:12px; text-align:justify; margin-top:4px;">
-      Jonatan Tidare is a university lecturer and researcher specializing in brain–computer interfaces (BCI). He earned his PhD in electronics with a focus on adaptive methods for post-stroke neurorehabilitation, where he developed and evaluated real-time adaptive BCI systems. His research combines advanced EEG signal analysis with experimental design to understand and enhance the brain’s learning processes. In parallel, he has extensive teaching experience in technical subjects, including embedded systems programming, electronics, signal processing, and research methodology.
-  </div>
-</div>
-
-
-
-
 <div style="display:flex; align-items:flex-start; gap:12px; margin:8px 0 16px;">
   <img src="/assets/images/Jonatan_Tidare.jpg" 
        alt="Portrait of Jonatan Tidare" 
