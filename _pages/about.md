@@ -23,9 +23,8 @@ Senior:
   
   <div>
     Jonatan Tidare, adjunct lecturer
-    <div style="font-size:11px; text-align:justify; margin-top:4px;">
+    <div style="font-size:12px; text-align:justify; margin-top:4px;">
       Jonatan Tidare is a university lecturer and researcher specializing in brain–computer interfaces (BCI). He earned his PhD in electronics with a focus on adaptive methods for post-stroke neurorehabilitation, where he developed and evaluated real-time adaptive BCI systems. His research combines advanced EEG signal analysis with experimental design to understand and enhance the brain’s learning processes. In parallel, he has extensive teaching experience in technical subjects, including embedded systems programming, electronics, signal processing, and research methodology.
-    </div>
   </div>
 </div>
 
