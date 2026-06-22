@@ -19,7 +19,7 @@ Senior:
 </div>
 
 <div style="display:flex; align-items:center; gap:12px; margin:8px 0 16px;">
-  <img src="/assets/images/Jonatan_Tidare.jpeg" alt="Portrait of Jonatan Tidare" style="width:72px; height:72px; object-fit:cover; border-radius:50%; box-shadow:0 0 0 1px #ddd;">
+  <img src="/assets/images/Jonatan_Tidare.jpg" alt="Portrait of Jonatan Tidare" style="width:72px; height:72px; object-fit:cover; border-radius:50%; box-shadow:0 0 0 1px #ddd;">
   Jonatan Tidare, adjunct lecturer
 </div>
 
