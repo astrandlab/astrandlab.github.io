@@ -24,9 +24,19 @@ Senior:
 </div>
 
 Postdocs:
-- Gabriele Varisco
+<div style="display:flex; align-items:center; gap:12px; margin:8px 0 16px;">
+  <img src="/assets/images/Gabriele_Varisco.jpg" alt="Portrait of Gabriele Varisco" style="width:72px; height:72px; object-fit:cover; border-radius:50%; box-shadow:0 0 0 1px #ddd;">
+  Gabriele Varisco, PhD
+</div>
 
 PhD students:
-- Joana Silva
-- Martin Johansson Alvarez
+<div style="display:flex; align-items:center; gap:12px; margin:8px 0 16px;">
+  <img src="/assets/images/Joana_Silva.jpg" alt="Portrait of Joana Silva" style="width:72px; height:72px; object-fit:cover; border-radius:50%; box-shadow:0 0 0 1px #ddd;">
+  Joana Silva
+</div>
+
+<div style="display:flex; align-items:center; gap:12px; margin:8px 0 16px;">
+  <img src="/assets/images/Martin_Johansson.jpg" alt="Portrait of Martin Johansson Alvarez" style="width:72px; height:72px; object-fit:cover; border-radius:50%; box-shadow:0 0 0 1px #ddd;">
+  Martin Johansson Alvarez
+</div>
 
