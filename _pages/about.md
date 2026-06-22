@@ -47,7 +47,9 @@ He supervises Bachelor's and Master's thesis projects in these areas and often c
 
 Postdocs:
 <div style="display:flex; align-items:center; gap:12px; margin:8px 0 16px;">
-  <img src="/assets/images/Gabriele_Varisco.jpg" alt="Portrait of Gabriele Varisco" style="width:72px; height:72px; object-fit:cover; border-radius:50%; box-shadow:0 0 0 1px #ddd;">
+  <img src="/assets/images/Gabriele_Varisco.jpg" 
+    alt="Portrait of Gabriele Varisco" 
+    style="width:72px; height:72px; object-fit:cover; border-radius:50%; box-shadow:0 0 0 1px #ddd;">
   Gabriele Varisco, PhD
 </div>
 
