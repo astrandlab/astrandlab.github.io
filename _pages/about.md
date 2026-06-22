@@ -17,7 +17,7 @@ Senior:
   <img src="/assets/images/elmeri_syrjanen.jpeg" alt="Portrait of Elmeri Syrjänen" style="width:72px; height:72px; object-fit:cover; border-radius:50%; box-shadow:0 0 0 1px #ddd;">
   <div>
     <div>
-      Elmeri SYrjänen, adjunct lecturer
+      Elmeri SYrjänen, PhD, Lecturer
     </div>
     
     <div style="font-size:12px; text-align:justify; margin-top:4px; color:#57606a;">
@@ -35,7 +35,7 @@ He supervises Bachelor's and Master's thesis projects in these areas and often c
 
   <div>
     <div>
-      Jonatan Tidare, adjunct lecturer
+      Jonatan Tidare, PhD, Lecturer
     </div>
 
     <div style="font-size:12px; text-align:justify; margin-top:4px; color:#57606a;">
